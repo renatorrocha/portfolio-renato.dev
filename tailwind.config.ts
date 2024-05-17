@@ -14,6 +14,7 @@ const config: Config = {
         "pale-cerulean": "#88c0d0",
         "air-blue": "#81a1c1",
         "steel-blue": "#5e81ac",
+        "light-powder-blue": "#d8dee9",
       },
     },
   },
