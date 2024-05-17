@@ -10,7 +10,7 @@ export default function UnderConstruction() {
   ];
 
   return (
-    <main className="items-center justify-center p-4 flex flex-col gap-4">
+    <main className="items-center justify-center p-4 flex flex-col gap-4 text-light-powder-blue bg-charcoal-blue rounded-lg shadow-lg">
       <p className="font-bold">Em construção...</p>
 
       <div className="flex justify-between gap-4">
